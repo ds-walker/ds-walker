@@ -1,7 +1,7 @@
-# Hi, my name is Nick!
+# Hello World!
 
 
-### About me
+### Who's Nick?
 
   I'm beginner Quality Assurance tester and HR-Manager. 
 Currently I have the second project where I am the founder. 
