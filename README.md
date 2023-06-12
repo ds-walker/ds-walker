@@ -1,18 +1,18 @@
 # 👋 Hi, my name is Nick!
 
 
-### 👨‍💻 About me
+### About me
 
-I'm beginner Web-Designer and HR-manager. My active learning began in 2021 and continues to this day.
+I'm beginner Quality Assurance tester and HR-Manager. Currently I have the second project where I am the founder. 
+"DARKSTAR PROJECT" - this is a community of people are placed all over the world Developers and other project employees. Team of "DARKSTAR PROJECT" works in development of game-server for public. 
 
-🌱 The main assistant of a good team.
+In 2021, I started to get acquainted with the world of IT and it pulled me in. At that time, my knowledge of graphic design began. In 2022, I started taking courses and studying Quality Assurance. In the same year, the "DARKSTAR PROJECT" team was assembled, which continues to exist and develop to this day.
 
-
-📫 Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nick9tkachuk@gmail.com)
+📫 If you want to contact to me, just send me a message: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nick9tkachuk@gmail.com)
 
 ---
 
-### 📦 Skills:
+### Skills:
 - Average Design skills
 - Quality Assurance
 - HR Manager
@@ -20,15 +20,15 @@ I'm beginner Web-Designer and HR-manager. My active learning began in 2021 and c
 
 ---
 
-### 🥷🏼 Languages:
+### Languages:
 - English
 - Ukrainian
-- Russian
 - Polish
+- Russian
 
 ---
 
-### 🛠 Programms:
+### Programms:
 
 - Figma
 - Adobe Photoshop
