@@ -12,6 +12,10 @@ Currently I have the second project where I am the founder.
 ### If you want to contact, just send me a message: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nick9tkachuk@gmail.com)
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ---
 
 ### Skills:
