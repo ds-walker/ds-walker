@@ -9,7 +9,7 @@ Currently I have the second project where I am the founder.
 
   In 2021, I started to get acquainted with the world of IT and it pulled me in. At that time, my knowledge of graphic design began. In 2022, I started taking courses and studying Quality Assurance. In the same year, the "DARKSTAR PROJECT" team was assembled, which continues to exist and develop to this day.
 
-### If you want to contact me, just send me a message: 
+### If you want to contact, just send me a message: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nick9tkachuk@gmail.com)
 
 ---
