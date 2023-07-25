@@ -17,11 +17,11 @@ In 2021, I began to get acquainted with the world of information technology, and
 ---
 
 ### Skills:
-- Average graphic design skills
+- Graphic Design
 - Quality Assurance
 - HR Manager
 - UX/UI
-- Web-Design
+- Web Design
 
 ---
 
