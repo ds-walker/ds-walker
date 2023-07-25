@@ -3,11 +3,9 @@
 
 ### Who's Nick?
 
-  I'm beginner Quality Assurance tester and HR-Manager. 
-Currently I have the second project where I am the founder. 
-"DARKSTAR PROJECT" - this is a community of people are placed all over the world developers and other project employees. Team of project works in development of game-server for public. 
+Hi, I am a graphic and also a web designer.
 
-  In 2021, I started to get acquainted with the world of IT and it pulled me in. At that time, my knowledge of graphic design began. In 2022, I started taking courses and studying Quality Assurance. In the same year, the "DARKSTAR PROJECT" team was assembled, which continues to exist and develop to this day.
+In 2021, I began to get acquainted with the world of information technology, and it fascinated me. At that time, my knowledge of graphic and web design began. In 2022, I started taking courses and also studying quality assurance. I managed to work as a freelancer, as well as in a team.
 
 ### If you want to contact, just send me a message: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nick9tkachuk@gmail.com)
@@ -22,6 +20,8 @@ Currently I have the second project where I am the founder.
 - Average graphic design skills
 - Quality Assurance
 - HR Manager
+- UX/UI Design
+- Web-Design
 
 ---
 
